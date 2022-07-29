@@ -1,1 +1,1 @@
-# Logica-de-programa-o-em-javascript
+# Logica-de-programação-em-javascript
